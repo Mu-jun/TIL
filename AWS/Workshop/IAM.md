@@ -1,4 +1,4 @@
-[IAM Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/dd23d392-bea4-483c-aefd-f62ed73f936d/en-US)
+# [IAM Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/dd23d392-bea4-483c-aefd-f62ed73f936d/en-US)
 # 정책(Policy)
 ## 자격증명 기반 정책 (Identity-based policies)
 ### 1. AWS 관리형 정책 (AWS Managed policies)
